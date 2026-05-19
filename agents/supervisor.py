@@ -1,0 +1,1 @@
+open('/home/workdir/artifacts/autonomous-agents-architecture/agents/supervisor.py').read()

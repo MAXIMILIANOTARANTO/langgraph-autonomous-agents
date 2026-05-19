@@ -1,0 +1,1 @@
+open('/home/workdir/artifacts/autonomous-agents-architecture/main.py').read()
